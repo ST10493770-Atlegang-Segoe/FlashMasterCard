@@ -62,6 +62,22 @@ Declare's app components and features.
 
 Reference 
 // Code Attribution 
+//This method was taken from geeksforgeeks
+//Link: https://www.geeksforgeeks.org
+//Geeks for geeks 
+
+//Code attribution 
+//This method was taken from android developers 
+//Link: https://developer.android.com 
+
+//Code attribution 
+//This method was taken from TechTarget 
+//Link: https://.techtarget.com
+
+//Code attribution 
+//This method was taken from JetBrains 
+//Link: https://www.jetbrains.com
+//Anon
 
 
 
