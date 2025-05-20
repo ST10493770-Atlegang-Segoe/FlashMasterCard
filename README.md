@@ -19,5 +19,9 @@ For UI design, Android XML is used
 Makes use of Android's integrated intent 
 
 Requirements: 
+Android Studios 
+
+
+
 
 
