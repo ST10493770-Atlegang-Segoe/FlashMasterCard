@@ -19,7 +19,7 @@ For UI design, Android XML is used
 Makes use of Android's integrated intent 
 
 Requirements: 
-Android Studios    
+Android Studios 7.0 API 24
 
 Links
 https://github.com/ST10493770-Atlegang-Segoe/FlashMasterCard/edit/main/README.md
@@ -52,18 +52,16 @@ Provides feedback when user clicks start button
 Second Main Activity
 When the user answers the question, the app will provide feedback and update the score
 ![image](https://github.com/user-attachments/assets/2c20015d-7e8d-44d0-8dfe-515052b3ffd8)
-![image](https://github.com/user-attachments/assets/818b315d-3d58-4abc-aac9-97e2746ef4be)
+![image](https://github.com/user-attachments/assets/818b315d-3d58-4abc-aac9-97e2746ef4be) 
 
-
-
-
-
-
-
+Android Mainfest 
+Declare's app components and features.
+![image](https://github.com/user-attachments/assets/2d2649a3-e2a0-4fc6-9e41-f7d83110a871)
 
 
 
 Reference 
+// Code Attribution 
 
 
 
